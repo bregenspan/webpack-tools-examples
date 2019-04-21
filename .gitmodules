@@ -1,0 +1,4 @@
+[submodule "submodules/webpack"]
+	path = submodules/webpack
+	url = git@github.com:bregenspan/webpack.git
+	branch = build-stats-examples
