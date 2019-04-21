@@ -10,9 +10,11 @@
   "scripts": {
     "build-examples": "./scripts/build-examples.sh",
     "ls-examples": "./scripts/ls-examples.sh",
-    "whybundled": "./wrappers/whybundled.sh"
+    "whybundled": "./wrappers/whybundled.sh",
+    "webpack-bundle-analyzer": "./wrappers/webpack-bundle-analyzer.sh"
   },
   "devDependencies": {
+    "webpack-bundle-analyzer": "^3.3.2",
     "whybundled": "^1.4.2"
   }
 }

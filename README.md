@@ -22,3 +22,8 @@ List names of Webpack examples
 ### `yarn run whybundled EXAMPLE-NAME`
 
 Run [`whybundled`](https://www.npmjs.com/package/whybundled) against the specified Webpack project example.
+
+### `yarn run webpack-bundle-analyzer EXAMPLE-NAME`
+
+Run [`webpack-bundle-analyzer`](https://github.com/webpack-contrib/webpack-bundle-analyzer) against the
+specified project example.
