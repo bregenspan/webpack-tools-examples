@@ -2,3 +2,8 @@
 	path = submodules/webpack
 	url = git@github.com:bregenspan/webpack.git
 	branch = build-stats-examples
+
+[submodule "submodules/analyse"]
+	path = submodules/analyse
+	url = git@github.com:bregenspan/analyse.git
+	branch = override-example-file
