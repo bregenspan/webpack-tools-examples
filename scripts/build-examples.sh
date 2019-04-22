@@ -2,6 +2,7 @@
 
 set -e
 
+git submodule init
 git submodule update --recursive --remote --merge -f
 cd ./submodules/webpack
 yarn
