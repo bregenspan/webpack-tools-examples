@@ -1,8 +1,12 @@
-Webpack Bundle Analysis Tool Examples
+Webpack Bundle Analysis Tool Examples (WIP)
 ===========================================
 
+(Work in Progress - not much here yet, but can be useful for building build stats files for all
+of the [Webpack Examples](https://github.com/webpack/webpack/tree/master/examples))
+
 This repo collects various Webpack-related analysis tools in one place, with
-usage examples.
+usage examples / simple wrapper scripts to run the tools against existing Webpack
+example projects.
 
 ## Setup
 
