@@ -1,8 +1,8 @@
 {
-  "name": "webpack-tools-examples",
+  "name": "@bregenspan/webpack-tools-examples",
   "private": true,
   "version": "1.0.0",
-  "description": "Usage examples for various Webpack-related tools",
+  "description": "Wrappers for easily running various bundle analysis tools against Webpack example projects",
   "main": "index.js",
   "repository": "git@github.com:bregenspan/webpack-tools-examples.git",
   "author": "Ben Regenspan <bregenspan@gmail.com>",
