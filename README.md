@@ -30,7 +30,7 @@ yarn run ls-examples  # get list of Webpack example project names
 
 ```sh
 # Run Webpack Bundle Analyzer on the "aggressive-merging" project example:
-yarn run webpack-bundle-analyser aggressive-merging
+yarn run webpack-bundle-analyzer aggressive-merging
 ```
 
 ### All Commands
