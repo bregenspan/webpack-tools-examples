@@ -11,6 +11,8 @@ example projects.
 ## Setup
 
 ```sh
+git clone git@github.com:bregenspan/webpack-tools-examples.git
+cd webpack-tools-examples
 yarn
 yarn run build-examples
 ```
